@@ -1,7 +1,6 @@
 #include<iostream>
 using namespace std;
-
 int main () {
-    cout << "First Program" << endl;
+    cout << "First game";
     return 0;
 }
