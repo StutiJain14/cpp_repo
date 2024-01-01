@@ -2,8 +2,6 @@
 using namespace std;
 
 int main () {
-    // cout << "First Program" << endl;
-    // cout << "Third Program" << endl;
-    cout << "Second Program" << endl;
+    cout << "First Program" << endl;
     return 0;
 }
